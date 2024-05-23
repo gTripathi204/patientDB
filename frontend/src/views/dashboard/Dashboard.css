@@ -1,0 +1,11 @@
+.ant-table-tbody {
+  background: white;
+}
+
+.patientCard {
+  overflow: auto !important;
+  background: white;
+}
+.MuiStack-root {
+  overflow: hidden;
+}
